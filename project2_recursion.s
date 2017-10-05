@@ -1,9 +1,5 @@
 #Second SPIM Assignment
-	#Program 2
-	#Name: Samantha Garcia
-	#Class: CDA 3101 Section 1678
-	#Date: 10/01/2017
-	
+
 .globl main
 main:
 
